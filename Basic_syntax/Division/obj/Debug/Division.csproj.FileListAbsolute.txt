@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Division\bin\Debug\Division.exe.config
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Division\bin\Debug\Division.exe
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Division\bin\Debug\Division.pdb
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Division\obj\Debug\Division.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Division\obj\Debug\Division.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Division\obj\Debug\Division.exe
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Division\obj\Debug\Division.pdb

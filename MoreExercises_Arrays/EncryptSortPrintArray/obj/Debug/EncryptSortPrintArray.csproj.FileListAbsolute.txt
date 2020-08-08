@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\MoreExercises_Arrays\EncryptSortPrintArray\bin\Debug\EncryptSortPrintArray.exe.config
+C:\Users\usmenzabanov\source\repos\MoreExercises_Arrays\EncryptSortPrintArray\bin\Debug\EncryptSortPrintArray.exe
+C:\Users\usmenzabanov\source\repos\MoreExercises_Arrays\EncryptSortPrintArray\bin\Debug\EncryptSortPrintArray.pdb
+C:\Users\usmenzabanov\source\repos\MoreExercises_Arrays\EncryptSortPrintArray\obj\Debug\EncryptSortPrintArray.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\MoreExercises_Arrays\EncryptSortPrintArray\obj\Debug\EncryptSortPrintArray.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\MoreExercises_Arrays\EncryptSortPrintArray\obj\Debug\EncryptSortPrintArray.exe
+C:\Users\usmenzabanov\source\repos\MoreExercises_Arrays\EncryptSortPrintArray\obj\Debug\EncryptSortPrintArray.pdb

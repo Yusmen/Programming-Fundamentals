@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\ExercisesLists\AppendArrays\bin\Release\AppendArrays.exe.config
+C:\Users\usmenzabanov\source\repos\ExercisesLists\AppendArrays\bin\Release\AppendArrays.exe
+C:\Users\usmenzabanov\source\repos\ExercisesLists\AppendArrays\bin\Release\AppendArrays.pdb
+C:\Users\usmenzabanov\source\repos\ExercisesLists\AppendArrays\obj\Release\AppendArrays.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\ExercisesLists\AppendArrays\obj\Release\AppendArrays.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ExercisesLists\AppendArrays\obj\Release\AppendArrays.exe
+C:\Users\usmenzabanov\source\repos\ExercisesLists\AppendArrays\obj\Release\AppendArrays.pdb

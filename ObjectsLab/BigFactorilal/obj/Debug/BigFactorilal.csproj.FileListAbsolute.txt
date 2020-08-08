@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\ObjectsLab\BigFactorilal\bin\Debug\BigFactorilal.exe.config
+C:\Users\usmenzabanov\source\repos\ObjectsLab\BigFactorilal\bin\Debug\BigFactorilal.exe
+C:\Users\usmenzabanov\source\repos\ObjectsLab\BigFactorilal\bin\Debug\BigFactorilal.pdb
+C:\Users\usmenzabanov\source\repos\ObjectsLab\BigFactorilal\obj\Debug\BigFactorilal.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\ObjectsLab\BigFactorilal\obj\Debug\BigFactorilal.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ObjectsLab\BigFactorilal\obj\Debug\BigFactorilal.exe
+C:\Users\usmenzabanov\source\repos\ObjectsLab\BigFactorilal\obj\Debug\BigFactorilal.pdb

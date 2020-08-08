@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Poke_mon\bin\Debug\Poke_mon.exe.config
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Poke_mon\bin\Debug\Poke_mon.exe
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Poke_mon\bin\Debug\Poke_mon.pdb
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Poke_mon\obj\Debug\Poke_mon.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Poke_mon\obj\Debug\Poke_mon.exe
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Poke_mon\obj\Debug\Poke_mon.pdb

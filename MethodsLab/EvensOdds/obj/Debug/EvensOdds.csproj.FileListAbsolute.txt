@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\MethodsLab\EvensOdds\bin\Debug\EvensOdds.exe.config
+C:\Users\usmenzabanov\source\repos\MethodsLab\EvensOdds\bin\Debug\EvensOdds.exe
+C:\Users\usmenzabanov\source\repos\MethodsLab\EvensOdds\bin\Debug\EvensOdds.pdb
+C:\Users\usmenzabanov\source\repos\MethodsLab\EvensOdds\obj\Debug\EvensOdds.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\MethodsLab\EvensOdds\obj\Debug\EvensOdds.exe
+C:\Users\usmenzabanov\source\repos\MethodsLab\EvensOdds\obj\Debug\EvensOdds.pdb
+C:\Users\usmenzabanov\source\repos\MethodsLab\EvensOdds\obj\Debug\EvensOdds.csprojAssemblyReference.cache

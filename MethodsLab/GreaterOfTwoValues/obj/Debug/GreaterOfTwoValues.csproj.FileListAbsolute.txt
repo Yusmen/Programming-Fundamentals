@@ -1,0 +1,2 @@
+C:\Users\usmenzabanov\source\repos\MethodsLab\GreaterOfTwoValues\obj\Debug\GreaterOfTwoValues.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\MethodsLab\GreaterOfTwoValues\obj\Debug\GreaterOfTwoValues.csproj.CoreCompileInputs.cache

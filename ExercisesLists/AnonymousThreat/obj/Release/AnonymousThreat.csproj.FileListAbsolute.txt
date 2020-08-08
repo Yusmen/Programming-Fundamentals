@@ -1,0 +1,14 @@
+C:\Users\usmenzabanov\source\repos\ExercisesLists\AnonymousThreat\bin\Release\AnonymousThreat.exe.config
+C:\Users\usmenzabanov\source\repos\ExercisesLists\AnonymousThreat\bin\Release\AnonymousThreat.exe
+C:\Users\usmenzabanov\source\repos\ExercisesLists\AnonymousThreat\bin\Release\AnonymousThreat.pdb
+C:\Users\usmenzabanov\source\repos\ExercisesLists\AnonymousThreat\obj\Release\AnonymousThreat.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\ExercisesLists\AnonymousThreat\obj\Release\AnonymousThreat.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ExercisesLists\AnonymousThreat\obj\Release\AnonymousThreat.exe
+C:\Users\usmenzabanov\source\repos\ExercisesLists\AnonymousThreat\obj\Release\AnonymousThreat.pdb
+C:\Users\Yusmen\Desktop\C#\Tech module\Zadachi_Resheniq\ExercisesLists\AnonymousThreat\bin\Release\AnonymousThreat.exe.config
+C:\Users\Yusmen\Desktop\C#\Tech module\Zadachi_Resheniq\ExercisesLists\AnonymousThreat\bin\Release\AnonymousThreat.exe
+C:\Users\Yusmen\Desktop\C#\Tech module\Zadachi_Resheniq\ExercisesLists\AnonymousThreat\bin\Release\AnonymousThreat.pdb
+C:\Users\Yusmen\Desktop\C#\Tech module\Zadachi_Resheniq\ExercisesLists\AnonymousThreat\obj\Release\AnonymousThreat.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\Tech module\Zadachi_Resheniq\ExercisesLists\AnonymousThreat\obj\Release\AnonymousThreat.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\Tech module\Zadachi_Resheniq\ExercisesLists\AnonymousThreat\obj\Release\AnonymousThreat.exe
+C:\Users\Yusmen\Desktop\C#\Tech module\Zadachi_Resheniq\ExercisesLists\AnonymousThreat\obj\Release\AnonymousThreat.pdb

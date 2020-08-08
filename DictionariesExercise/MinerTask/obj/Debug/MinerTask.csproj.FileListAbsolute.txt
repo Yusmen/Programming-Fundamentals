@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\MinerTask\bin\Debug\MinerTask.exe.config
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\MinerTask\bin\Debug\MinerTask.exe
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\MinerTask\bin\Debug\MinerTask.pdb
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\MinerTask\obj\Debug\MinerTask.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\MinerTask\obj\Debug\MinerTask.exe
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\MinerTask\obj\Debug\MinerTask.pdb

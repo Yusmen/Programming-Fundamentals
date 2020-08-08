@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\KaminoFactory\bin\Debug\KaminoFactory.exe.config
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\KaminoFactory\bin\Debug\KaminoFactory.exe
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\KaminoFactory\bin\Debug\KaminoFactory.pdb
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\KaminoFactory\obj\Debug\KaminoFactory.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\KaminoFactory\obj\Debug\KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\KaminoFactory\obj\Debug\KaminoFactory.exe
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\KaminoFactory\obj\Debug\KaminoFactory.pdb

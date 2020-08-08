@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\MethodsLab\ReapeatString\bin\Debug\ReapeatString.exe.config
+C:\Users\usmenzabanov\source\repos\MethodsLab\ReapeatString\bin\Debug\ReapeatString.exe
+C:\Users\usmenzabanov\source\repos\MethodsLab\ReapeatString\bin\Debug\ReapeatString.pdb
+C:\Users\usmenzabanov\source\repos\MethodsLab\ReapeatString\obj\Debug\ReapeatString.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\MethodsLab\ReapeatString\obj\Debug\ReapeatString.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\MethodsLab\ReapeatString\obj\Debug\ReapeatString.exe
+C:\Users\usmenzabanov\source\repos\MethodsLab\ReapeatString\obj\Debug\ReapeatString.pdb

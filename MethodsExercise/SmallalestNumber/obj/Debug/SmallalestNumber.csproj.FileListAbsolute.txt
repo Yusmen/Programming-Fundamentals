@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\MethodsExercise\SmallalestNumber\bin\Debug\SmallalestNumber.exe.config
+C:\Users\usmenzabanov\source\repos\MethodsExercise\SmallalestNumber\bin\Debug\SmallalestNumber.exe
+C:\Users\usmenzabanov\source\repos\MethodsExercise\SmallalestNumber\bin\Debug\SmallalestNumber.pdb
+C:\Users\usmenzabanov\source\repos\MethodsExercise\SmallalestNumber\obj\Debug\SmallalestNumber.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\MethodsExercise\SmallalestNumber\obj\Debug\SmallalestNumber.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\MethodsExercise\SmallalestNumber\obj\Debug\SmallalestNumber.exe
+C:\Users\usmenzabanov\source\repos\MethodsExercise\SmallalestNumber\obj\Debug\SmallalestNumber.pdb

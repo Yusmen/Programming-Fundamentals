@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\ExercisesLists\BombNumbers\bin\Release\BombNumbers.exe.config
+C:\Users\usmenzabanov\source\repos\ExercisesLists\BombNumbers\bin\Release\BombNumbers.exe
+C:\Users\usmenzabanov\source\repos\ExercisesLists\BombNumbers\bin\Release\BombNumbers.pdb
+C:\Users\usmenzabanov\source\repos\ExercisesLists\BombNumbers\obj\Release\BombNumbers.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\ExercisesLists\BombNumbers\obj\Release\BombNumbers.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ExercisesLists\BombNumbers\obj\Release\BombNumbers.exe
+C:\Users\usmenzabanov\source\repos\ExercisesLists\BombNumbers\obj\Release\BombNumbers.pdb

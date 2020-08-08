@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\MaxSequence\bin\Debug\MaxSequence.exe.config
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\MaxSequence\bin\Debug\MaxSequence.exe
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\MaxSequence\bin\Debug\MaxSequence.pdb
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\MaxSequence\obj\Debug\MaxSequence.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\MaxSequence\obj\Debug\MaxSequence.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\MaxSequence\obj\Debug\MaxSequence.exe
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\MaxSequence\obj\Debug\MaxSequence.pdb

@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\ExercisesLists\ChangeList\bin\Debug\ChangeList.exe.config
+C:\Users\usmenzabanov\source\repos\ExercisesLists\ChangeList\bin\Debug\ChangeList.exe
+C:\Users\usmenzabanov\source\repos\ExercisesLists\ChangeList\bin\Debug\ChangeList.pdb
+C:\Users\usmenzabanov\source\repos\ExercisesLists\ChangeList\obj\Debug\ChangeList.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\ExercisesLists\ChangeList\obj\Debug\ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ExercisesLists\ChangeList\obj\Debug\ChangeList.exe
+C:\Users\usmenzabanov\source\repos\ExercisesLists\ChangeList\obj\Debug\ChangeList.pdb

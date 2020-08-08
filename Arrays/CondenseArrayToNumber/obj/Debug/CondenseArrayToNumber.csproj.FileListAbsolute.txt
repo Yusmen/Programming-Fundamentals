@@ -1,0 +1,14 @@
+C:\Users\usmenzabanov\source\repos\Arrays\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.exe.config
+C:\Users\usmenzabanov\source\repos\Arrays\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.exe
+C:\Users\usmenzabanov\source\repos\Arrays\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.pdb
+C:\Users\usmenzabanov\source\repos\Arrays\CondenseArrayToNumber\obj\Debug\CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Arrays\CondenseArrayToNumber\obj\Debug\CondenseArrayToNumber.exe
+C:\Users\usmenzabanov\source\repos\Arrays\CondenseArrayToNumber\obj\Debug\CondenseArrayToNumber.pdb
+C:\Users\usmenzabanov\source\repos\Arrays\CondenseArrayToNumber\obj\Debug\CondenseArrayToNumber.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\repos\Arrays\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.exe.config
+C:\Users\Yusmen\Desktop\repos\Arrays\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.exe
+C:\Users\Yusmen\Desktop\repos\Arrays\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.pdb
+C:\Users\Yusmen\Desktop\repos\Arrays\CondenseArrayToNumber\obj\Debug\CondenseArrayToNumber.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\repos\Arrays\CondenseArrayToNumber\obj\Debug\CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\repos\Arrays\CondenseArrayToNumber\obj\Debug\CondenseArrayToNumber.exe
+C:\Users\Yusmen\Desktop\repos\Arrays\CondenseArrayToNumber\obj\Debug\CondenseArrayToNumber.pdb

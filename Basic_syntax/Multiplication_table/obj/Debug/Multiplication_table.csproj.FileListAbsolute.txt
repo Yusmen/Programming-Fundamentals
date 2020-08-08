@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Multiplication_table\bin\Debug\Multiplication_table.exe.config
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Multiplication_table\bin\Debug\Multiplication_table.exe
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Multiplication_table\bin\Debug\Multiplication_table.pdb
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Multiplication_table\obj\Debug\Multiplication_table.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Multiplication_table\obj\Debug\Multiplication_table.exe
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Multiplication_table\obj\Debug\Multiplication_table.pdb

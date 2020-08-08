@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Basic_syntax\30_minutes\bin\Debug\30_minutes.exe.config
+C:\Users\usmenzabanov\source\repos\Basic_syntax\30_minutes\bin\Debug\30_minutes.exe
+C:\Users\usmenzabanov\source\repos\Basic_syntax\30_minutes\bin\Debug\30_minutes.pdb
+C:\Users\usmenzabanov\source\repos\Basic_syntax\30_minutes\obj\Debug\30_minutes.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Basic_syntax\30_minutes\obj\Debug\30_minutes.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Basic_syntax\30_minutes\obj\Debug\30_minutes.exe
+C:\Users\usmenzabanov\source\repos\Basic_syntax\30_minutes\obj\Debug\30_minutes.pdb

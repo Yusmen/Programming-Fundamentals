@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\Common_Elements\bin\Debug\Common_Elements.exe.config
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\Common_Elements\bin\Debug\Common_Elements.exe
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\Common_Elements\bin\Debug\Common_Elements.pdb
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\Common_Elements\obj\Debug\Common_Elements.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\Common_Elements\obj\Debug\Common_Elements.exe
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\Common_Elements\obj\Debug\Common_Elements.pdb
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\Common_Elements\obj\Debug\Common_Elements.csprojAssemblyReference.cache

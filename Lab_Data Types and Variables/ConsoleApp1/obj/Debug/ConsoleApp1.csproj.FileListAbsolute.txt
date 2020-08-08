@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

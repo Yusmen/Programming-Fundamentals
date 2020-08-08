@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Even_number\bin\Debug\Even_number.exe.config
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Even_number\bin\Debug\Even_number.exe
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Even_number\bin\Debug\Even_number.pdb
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Even_number\obj\Debug\Even_number.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Even_number\obj\Debug\Even_number.exe
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Even_number\obj\Debug\Even_number.pdb

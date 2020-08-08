@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\ExercisesLists\SoftUniCoursePlanning\obj\Release\SoftUniCoursePlanning.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\ExercisesLists\SoftUniCoursePlanning\obj\Release\SoftUniCoursePlanning.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ExercisesLists\SoftUniCoursePlanning\bin\Release\SoftUniCoursePlanning.exe.config
+C:\Users\usmenzabanov\source\repos\ExercisesLists\SoftUniCoursePlanning\bin\Release\SoftUniCoursePlanning.exe
+C:\Users\usmenzabanov\source\repos\ExercisesLists\SoftUniCoursePlanning\bin\Release\SoftUniCoursePlanning.pdb
+C:\Users\usmenzabanov\source\repos\ExercisesLists\SoftUniCoursePlanning\obj\Release\SoftUniCoursePlanning.exe
+C:\Users\usmenzabanov\source\repos\ExercisesLists\SoftUniCoursePlanning\obj\Release\SoftUniCoursePlanning.pdb

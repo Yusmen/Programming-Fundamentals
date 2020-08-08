@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Strong_number\bin\Debug\Strong_number.exe.config
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Strong_number\bin\Debug\Strong_number.exe
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Strong_number\bin\Debug\Strong_number.pdb
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Strong_number\obj\Debug\Strong_number.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Strong_number\obj\Debug\Strong_number.exe
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Strong_number\obj\Debug\Strong_number.pdb

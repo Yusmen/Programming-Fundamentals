@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\ExercisesLists\HouseParty\bin\Release\HouseParty.exe.config
+C:\Users\usmenzabanov\source\repos\ExercisesLists\HouseParty\bin\Release\HouseParty.exe
+C:\Users\usmenzabanov\source\repos\ExercisesLists\HouseParty\bin\Release\HouseParty.pdb
+C:\Users\usmenzabanov\source\repos\ExercisesLists\HouseParty\obj\Release\HouseParty.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ExercisesLists\HouseParty\obj\Release\HouseParty.exe
+C:\Users\usmenzabanov\source\repos\ExercisesLists\HouseParty\obj\Release\HouseParty.pdb
+C:\Users\usmenzabanov\source\repos\ExercisesLists\HouseParty\obj\Release\HouseParty.csprojAssemblyReference.cache

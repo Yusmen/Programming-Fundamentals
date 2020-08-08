@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\CompanyUsers\bin\Debug\CompanyUsers.exe.config
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\CompanyUsers\bin\Debug\CompanyUsers.exe
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\CompanyUsers\bin\Debug\CompanyUsers.pdb
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\CompanyUsers\obj\Debug\CompanyUsers.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\CompanyUsers\obj\Debug\CompanyUsers.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\CompanyUsers\obj\Debug\CompanyUsers.exe
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\CompanyUsers\obj\Debug\CompanyUsers.pdb

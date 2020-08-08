@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Elevator\obj\Debug\Elevator.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Elevator\obj\Debug\Elevator.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Elevator\bin\Debug\Elevator.exe.config
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Elevator\bin\Debug\Elevator.exe
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Elevator\bin\Debug\Elevator.pdb
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Elevator\obj\Debug\Elevator.exe
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Elevator\obj\Debug\Elevator.pdb

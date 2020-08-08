@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\ExercisesLists\Proba\bin\Release\Proba.exe.config
+C:\Users\usmenzabanov\source\repos\ExercisesLists\Proba\bin\Release\Proba.exe
+C:\Users\usmenzabanov\source\repos\ExercisesLists\Proba\bin\Release\Proba.pdb
+C:\Users\usmenzabanov\source\repos\ExercisesLists\Proba\obj\Release\Proba.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\ExercisesLists\Proba\obj\Release\Proba.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ExercisesLists\Proba\obj\Release\Proba.exe
+C:\Users\usmenzabanov\source\repos\ExercisesLists\Proba\obj\Release\Proba.pdb

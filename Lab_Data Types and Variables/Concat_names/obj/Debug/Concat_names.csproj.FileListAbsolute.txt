@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Concat_names\bin\Debug\Concat_names.exe.config
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Concat_names\bin\Debug\Concat_names.exe
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Concat_names\bin\Debug\Concat_names.pdb
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Concat_names\obj\Debug\Concat_names.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Concat_names\obj\Debug\Concat_names.exe
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Concat_names\obj\Debug\Concat_names.pdb

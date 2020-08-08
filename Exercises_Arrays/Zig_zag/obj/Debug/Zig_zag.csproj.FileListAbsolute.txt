@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\Zig_zag\bin\Debug\Zig_zag.exe.config
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\Zig_zag\bin\Debug\Zig_zag.exe
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\Zig_zag\bin\Debug\Zig_zag.pdb
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\Zig_zag\obj\Debug\Zig_zag.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\Zig_zag\obj\Debug\Zig_zag.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\Zig_zag\obj\Debug\Zig_zag.exe
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\Zig_zag\obj\Debug\Zig_zag.pdb

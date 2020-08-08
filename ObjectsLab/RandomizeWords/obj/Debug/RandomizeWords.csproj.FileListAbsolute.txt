@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\ObjectsLab\RandomizeWords\bin\Debug\RandomizeWords.exe.config
+C:\Users\usmenzabanov\source\repos\ObjectsLab\RandomizeWords\bin\Debug\RandomizeWords.exe
+C:\Users\usmenzabanov\source\repos\ObjectsLab\RandomizeWords\bin\Debug\RandomizeWords.pdb
+C:\Users\usmenzabanov\source\repos\ObjectsLab\RandomizeWords\obj\Debug\RandomizeWords.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ObjectsLab\RandomizeWords\obj\Debug\RandomizeWords.exe
+C:\Users\usmenzabanov\source\repos\ObjectsLab\RandomizeWords\obj\Debug\RandomizeWords.pdb

@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\Legendary Farming\bin\Debug\Legendary Farming.exe.config
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\Legendary Farming\bin\Debug\Legendary Farming.exe
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\Legendary Farming\bin\Debug\Legendary Farming.pdb
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\Legendary Farming\obj\Debug\Legendary Farming.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\Legendary Farming\obj\Debug\Legendary Farming.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\Legendary Farming\obj\Debug\Legendary Farming.exe
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\Legendary Farming\obj\Debug\Legendary Farming.pdb

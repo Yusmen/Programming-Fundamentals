@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Arrays\NumbersInReavarseOrder\bin\Debug\NumbersInReavarseOrder.exe.config
+C:\Users\usmenzabanov\source\repos\Arrays\NumbersInReavarseOrder\bin\Debug\NumbersInReavarseOrder.exe
+C:\Users\usmenzabanov\source\repos\Arrays\NumbersInReavarseOrder\bin\Debug\NumbersInReavarseOrder.pdb
+C:\Users\usmenzabanov\source\repos\Arrays\NumbersInReavarseOrder\obj\Debug\NumbersInReavarseOrder.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Arrays\NumbersInReavarseOrder\obj\Debug\NumbersInReavarseOrder.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Arrays\NumbersInReavarseOrder\obj\Debug\NumbersInReavarseOrder.exe
+C:\Users\usmenzabanov\source\repos\Arrays\NumbersInReavarseOrder\obj\Debug\NumbersInReavarseOrder.pdb

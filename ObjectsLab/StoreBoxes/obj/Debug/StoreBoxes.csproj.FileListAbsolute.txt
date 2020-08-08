@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\ObjectsLab\StoreBoxes\bin\Debug\StoreBoxes.exe.config
+C:\Users\usmenzabanov\source\repos\ObjectsLab\StoreBoxes\bin\Debug\StoreBoxes.exe
+C:\Users\usmenzabanov\source\repos\ObjectsLab\StoreBoxes\bin\Debug\StoreBoxes.pdb
+C:\Users\usmenzabanov\source\repos\ObjectsLab\StoreBoxes\obj\Debug\StoreBoxes.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\ObjectsLab\StoreBoxes\obj\Debug\StoreBoxes.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ObjectsLab\StoreBoxes\obj\Debug\StoreBoxes.exe
+C:\Users\usmenzabanov\source\repos\ObjectsLab\StoreBoxes\obj\Debug\StoreBoxes.pdb

@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\MagicSum\bin\Debug\MagicSum.exe.config
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\MagicSum\bin\Debug\MagicSum.exe
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\MagicSum\bin\Debug\MagicSum.pdb
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\MagicSum\obj\Debug\MagicSum.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\MagicSum\obj\Debug\MagicSum.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\MagicSum\obj\Debug\MagicSum.exe
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\MagicSum\obj\Debug\MagicSum.pdb

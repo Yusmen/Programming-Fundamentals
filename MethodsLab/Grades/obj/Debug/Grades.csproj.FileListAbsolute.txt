@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\MethodsLab\Grades\bin\Debug\Grades.exe.config
+C:\Users\usmenzabanov\source\repos\MethodsLab\Grades\bin\Debug\Grades.exe
+C:\Users\usmenzabanov\source\repos\MethodsLab\Grades\bin\Debug\Grades.pdb
+C:\Users\usmenzabanov\source\repos\MethodsLab\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\MethodsLab\Grades\obj\Debug\Grades.exe
+C:\Users\usmenzabanov\source\repos\MethodsLab\Grades\obj\Debug\Grades.pdb

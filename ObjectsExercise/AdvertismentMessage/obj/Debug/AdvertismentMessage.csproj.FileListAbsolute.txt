@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\ObjectsExercise\AdvertismentMessage\bin\Debug\AdvertismentMessage.exe.config
+C:\Users\usmenzabanov\source\repos\ObjectsExercise\AdvertismentMessage\bin\Debug\AdvertismentMessage.exe
+C:\Users\usmenzabanov\source\repos\ObjectsExercise\AdvertismentMessage\bin\Debug\AdvertismentMessage.pdb
+C:\Users\usmenzabanov\source\repos\ObjectsExercise\AdvertismentMessage\obj\Debug\AdvertismentMessage.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\ObjectsExercise\AdvertismentMessage\obj\Debug\AdvertismentMessage.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ObjectsExercise\AdvertismentMessage\obj\Debug\AdvertismentMessage.exe
+C:\Users\usmenzabanov\source\repos\ObjectsExercise\AdvertismentMessage\obj\Debug\AdvertismentMessage.pdb

@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\Arrays\SumOfEvens\bin\Debug\SumOfEvens.exe.config
+C:\Users\usmenzabanov\source\repos\Arrays\SumOfEvens\bin\Debug\SumOfEvens.exe
+C:\Users\usmenzabanov\source\repos\Arrays\SumOfEvens\bin\Debug\SumOfEvens.pdb
+C:\Users\usmenzabanov\source\repos\Arrays\SumOfEvens\obj\Debug\SumOfEvens.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Arrays\SumOfEvens\obj\Debug\SumOfEvens.exe
+C:\Users\usmenzabanov\source\repos\Arrays\SumOfEvens\obj\Debug\SumOfEvens.pdb

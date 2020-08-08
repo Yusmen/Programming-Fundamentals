@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\Arrays\EqualArraays\bin\Debug\EqualArraays.exe.config
+C:\Users\usmenzabanov\source\repos\Arrays\EqualArraays\bin\Debug\EqualArraays.exe
+C:\Users\usmenzabanov\source\repos\Arrays\EqualArraays\bin\Debug\EqualArraays.pdb
+C:\Users\usmenzabanov\source\repos\Arrays\EqualArraays\obj\Debug\EqualArraays.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Arrays\EqualArraays\obj\Debug\EqualArraays.exe
+C:\Users\usmenzabanov\source\repos\Arrays\EqualArraays\obj\Debug\EqualArraays.pdb

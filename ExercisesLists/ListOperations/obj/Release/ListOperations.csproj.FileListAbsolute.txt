@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\ExercisesLists\ListOperations\bin\Release\ListOperations.exe.config
+C:\Users\usmenzabanov\source\repos\ExercisesLists\ListOperations\bin\Release\ListOperations.exe
+C:\Users\usmenzabanov\source\repos\ExercisesLists\ListOperations\bin\Release\ListOperations.pdb
+C:\Users\usmenzabanov\source\repos\ExercisesLists\ListOperations\obj\Release\ListOperations.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\ExercisesLists\ListOperations\obj\Release\ListOperations.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ExercisesLists\ListOperations\obj\Release\ListOperations.exe
+C:\Users\usmenzabanov\source\repos\ExercisesLists\ListOperations\obj\Release\ListOperations.pdb

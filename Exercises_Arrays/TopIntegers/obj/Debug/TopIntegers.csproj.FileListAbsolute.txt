@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\TopIntegers\bin\Debug\TopIntegers.exe.config
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\TopIntegers\bin\Debug\TopIntegers.exe
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\TopIntegers\bin\Debug\TopIntegers.pdb
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\TopIntegers\obj\Debug\TopIntegers.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\TopIntegers\obj\Debug\TopIntegers.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\TopIntegers\obj\Debug\TopIntegers.exe
+C:\Users\usmenzabanov\source\repos\Exercises_Arrays\TopIntegers\obj\Debug\TopIntegers.pdb

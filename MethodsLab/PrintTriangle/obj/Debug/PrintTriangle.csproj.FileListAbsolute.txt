@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\MethodsLab\PrintTriangle\bin\Debug\PrintTriangle.exe.config
+C:\Users\usmenzabanov\source\repos\MethodsLab\PrintTriangle\bin\Debug\PrintTriangle.exe
+C:\Users\usmenzabanov\source\repos\MethodsLab\PrintTriangle\bin\Debug\PrintTriangle.pdb
+C:\Users\usmenzabanov\source\repos\MethodsLab\PrintTriangle\obj\Debug\PrintTriangle.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\MethodsLab\PrintTriangle\obj\Debug\PrintTriangle.exe
+C:\Users\usmenzabanov\source\repos\MethodsLab\PrintTriangle\obj\Debug\PrintTriangle.pdb

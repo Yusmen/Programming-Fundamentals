@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\DictionariesLab\WordFilter\bin\Debug\WordFilter.exe.config
+C:\Users\usmenzabanov\source\repos\DictionariesLab\WordFilter\bin\Debug\WordFilter.exe
+C:\Users\usmenzabanov\source\repos\DictionariesLab\WordFilter\bin\Debug\WordFilter.pdb
+C:\Users\usmenzabanov\source\repos\DictionariesLab\WordFilter\obj\Debug\WordFilter.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\DictionariesLab\WordFilter\obj\Debug\WordFilter.exe
+C:\Users\usmenzabanov\source\repos\DictionariesLab\WordFilter\obj\Debug\WordFilter.pdb

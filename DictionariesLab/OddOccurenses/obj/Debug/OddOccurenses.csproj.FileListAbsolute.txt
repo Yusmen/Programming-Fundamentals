@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\DictionariesLab\OddOccurenses\bin\Debug\OddOccurenses.exe.config
+C:\Users\usmenzabanov\source\repos\DictionariesLab\OddOccurenses\bin\Debug\OddOccurenses.exe
+C:\Users\usmenzabanov\source\repos\DictionariesLab\OddOccurenses\bin\Debug\OddOccurenses.pdb
+C:\Users\usmenzabanov\source\repos\DictionariesLab\OddOccurenses\obj\Debug\OddOccurenses.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\DictionariesLab\OddOccurenses\obj\Debug\OddOccurenses.exe
+C:\Users\usmenzabanov\source\repos\DictionariesLab\OddOccurenses\obj\Debug\OddOccurenses.pdb

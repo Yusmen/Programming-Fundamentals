@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\DataTypeFinder\bin\Debug\DataTypeFinder.exe.config
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\DataTypeFinder\bin\Debug\DataTypeFinder.exe
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\DataTypeFinder\bin\Debug\DataTypeFinder.pdb
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\DataTypeFinder\obj\Debug\DataTypeFinder.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\DataTypeFinder\obj\Debug\DataTypeFinder.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\DataTypeFinder\obj\Debug\DataTypeFinder.exe
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\DataTypeFinder\obj\Debug\DataTypeFinder.pdb

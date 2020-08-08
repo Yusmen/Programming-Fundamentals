@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Latin_letters\bin\Debug\Latin_letters.exe.config
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Latin_letters\bin\Debug\Latin_letters.exe
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Latin_letters\bin\Debug\Latin_letters.pdb
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Latin_letters\obj\Debug\Latin_letters.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Latin_letters\obj\Debug\Latin_letters.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Latin_letters\obj\Debug\Latin_letters.exe
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Latin_letters\obj\Debug\Latin_letters.pdb

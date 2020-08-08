@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Reversed_Chars
+{
+    class Program
+    {
+        static void Main()
+        {
+            char first = char.Parse(Console.ReadLine());
+            char second = char.Parse(Console.ReadLine());
+            char third = char.Parse(Console.ReadLine());
+            Console.WriteLine($"{third} {second} {first}");
+        }
+    }
+}

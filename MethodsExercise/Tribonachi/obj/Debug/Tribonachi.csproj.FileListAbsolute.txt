@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\MethodsExercise\Tribonachi\bin\Debug\Tribonachi.exe.config
+C:\Users\usmenzabanov\source\repos\MethodsExercise\Tribonachi\bin\Debug\Tribonachi.exe
+C:\Users\usmenzabanov\source\repos\MethodsExercise\Tribonachi\bin\Debug\Tribonachi.pdb
+C:\Users\usmenzabanov\source\repos\MethodsExercise\Tribonachi\obj\Debug\Tribonachi.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\MethodsExercise\Tribonachi\obj\Debug\Tribonachi.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\MethodsExercise\Tribonachi\obj\Debug\Tribonachi.exe
+C:\Users\usmenzabanov\source\repos\MethodsExercise\Tribonachi\obj\Debug\Tribonachi.pdb

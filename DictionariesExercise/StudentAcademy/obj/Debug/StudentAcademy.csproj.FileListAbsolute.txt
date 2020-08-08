@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\StudentAcademy\bin\Debug\StudentAcademy.exe.config
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\StudentAcademy\bin\Debug\StudentAcademy.exe
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\StudentAcademy\bin\Debug\StudentAcademy.pdb
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\StudentAcademy\obj\Debug\StudentAcademy.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\StudentAcademy\obj\Debug\StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\StudentAcademy\obj\Debug\StudentAcademy.exe
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\StudentAcademy\obj\Debug\StudentAcademy.pdb

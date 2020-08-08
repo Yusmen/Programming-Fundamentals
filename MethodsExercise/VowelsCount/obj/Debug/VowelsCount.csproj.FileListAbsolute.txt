@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\MethodsExercise\VowelsCount\bin\Debug\VowelsCount.exe.config
+C:\Users\usmenzabanov\source\repos\MethodsExercise\VowelsCount\bin\Debug\VowelsCount.exe
+C:\Users\usmenzabanov\source\repos\MethodsExercise\VowelsCount\bin\Debug\VowelsCount.pdb
+C:\Users\usmenzabanov\source\repos\MethodsExercise\VowelsCount\obj\Debug\VowelsCount.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\MethodsExercise\VowelsCount\obj\Debug\VowelsCount.exe
+C:\Users\usmenzabanov\source\repos\MethodsExercise\VowelsCount\obj\Debug\VowelsCount.pdb

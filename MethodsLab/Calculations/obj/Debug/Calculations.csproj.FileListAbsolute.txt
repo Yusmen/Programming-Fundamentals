@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\MethodsLab\Calculations\bin\Debug\Calculations.exe.config
+C:\Users\usmenzabanov\source\repos\MethodsLab\Calculations\bin\Debug\Calculations.exe
+C:\Users\usmenzabanov\source\repos\MethodsLab\Calculations\bin\Debug\Calculations.pdb
+C:\Users\usmenzabanov\source\repos\MethodsLab\Calculations\obj\Debug\Calculations.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\MethodsLab\Calculations\obj\Debug\Calculations.exe
+C:\Users\usmenzabanov\source\repos\MethodsLab\Calculations\obj\Debug\Calculations.pdb

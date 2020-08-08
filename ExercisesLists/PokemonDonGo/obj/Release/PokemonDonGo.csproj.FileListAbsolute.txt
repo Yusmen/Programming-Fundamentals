@@ -1,0 +1,14 @@
+C:\Users\usmenzabanov\source\repos\ExercisesLists\PokemonDonGo\bin\Release\PokemonDonGo.exe.config
+C:\Users\usmenzabanov\source\repos\ExercisesLists\PokemonDonGo\bin\Release\PokemonDonGo.exe
+C:\Users\usmenzabanov\source\repos\ExercisesLists\PokemonDonGo\bin\Release\PokemonDonGo.pdb
+C:\Users\usmenzabanov\source\repos\ExercisesLists\PokemonDonGo\obj\Release\PokemonDonGo.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\ExercisesLists\PokemonDonGo\obj\Release\PokemonDonGo.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ExercisesLists\PokemonDonGo\obj\Release\PokemonDonGo.exe
+C:\Users\usmenzabanov\source\repos\ExercisesLists\PokemonDonGo\obj\Release\PokemonDonGo.pdb
+C:\Users\Yusmen\Desktop\C#\Tech module\Zadachi_Resheniq\ExercisesLists\PokemonDonGo\bin\Release\PokemonDonGo.exe.config
+C:\Users\Yusmen\Desktop\C#\Tech module\Zadachi_Resheniq\ExercisesLists\PokemonDonGo\bin\Release\PokemonDonGo.exe
+C:\Users\Yusmen\Desktop\C#\Tech module\Zadachi_Resheniq\ExercisesLists\PokemonDonGo\bin\Release\PokemonDonGo.pdb
+C:\Users\Yusmen\Desktop\C#\Tech module\Zadachi_Resheniq\ExercisesLists\PokemonDonGo\obj\Release\PokemonDonGo.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\Tech module\Zadachi_Resheniq\ExercisesLists\PokemonDonGo\obj\Release\PokemonDonGo.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\Tech module\Zadachi_Resheniq\ExercisesLists\PokemonDonGo\obj\Release\PokemonDonGo.exe
+C:\Users\Yusmen\Desktop\C#\Tech module\Zadachi_Resheniq\ExercisesLists\PokemonDonGo\obj\Release\PokemonDonGo.pdb

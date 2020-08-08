@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\MethodsExercise\TopNumber\bin\Debug\TopNumber.exe.config
+C:\Users\usmenzabanov\source\repos\MethodsExercise\TopNumber\bin\Debug\TopNumber.exe
+C:\Users\usmenzabanov\source\repos\MethodsExercise\TopNumber\bin\Debug\TopNumber.pdb
+C:\Users\usmenzabanov\source\repos\MethodsExercise\TopNumber\obj\Debug\TopNumber.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\MethodsExercise\TopNumber\obj\Debug\TopNumber.exe
+C:\Users\usmenzabanov\source\repos\MethodsExercise\TopNumber\obj\Debug\TopNumber.pdb

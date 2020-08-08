@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Sort\bin\Debug\Sort.exe.config
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Sort\bin\Debug\Sort.exe
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Sort\bin\Debug\Sort.pdb
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Sort\obj\Debug\Sort.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Sort\obj\Debug\Sort.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Sort\obj\Debug\Sort.exe
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Sort\obj\Debug\Sort.pdb

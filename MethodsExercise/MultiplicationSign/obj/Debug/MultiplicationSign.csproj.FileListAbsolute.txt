@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\MethodsExercise\MultiplicationSign\bin\Debug\MultiplicationSign.exe.config
+C:\Users\usmenzabanov\source\repos\MethodsExercise\MultiplicationSign\bin\Debug\MultiplicationSign.exe
+C:\Users\usmenzabanov\source\repos\MethodsExercise\MultiplicationSign\bin\Debug\MultiplicationSign.pdb
+C:\Users\usmenzabanov\source\repos\MethodsExercise\MultiplicationSign\obj\Debug\MultiplicationSign.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\MethodsExercise\MultiplicationSign\obj\Debug\MultiplicationSign.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\MethodsExercise\MultiplicationSign\obj\Debug\MultiplicationSign.exe
+C:\Users\usmenzabanov\source\repos\MethodsExercise\MultiplicationSign\obj\Debug\MultiplicationSign.pdb

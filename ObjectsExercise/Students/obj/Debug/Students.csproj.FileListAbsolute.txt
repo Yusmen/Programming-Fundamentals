@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\ObjectsExercise\Students\bin\Debug\Students.exe.config
+C:\Users\usmenzabanov\source\repos\ObjectsExercise\Students\bin\Debug\Students.exe
+C:\Users\usmenzabanov\source\repos\ObjectsExercise\Students\bin\Debug\Students.pdb
+C:\Users\usmenzabanov\source\repos\ObjectsExercise\Students\obj\Debug\Students.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\ObjectsExercise\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ObjectsExercise\Students\obj\Debug\Students.exe
+C:\Users\usmenzabanov\source\repos\ObjectsExercise\Students\obj\Debug\Students.pdb

@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\MethodsExercise\FactorilaDivision\bin\Debug\FactorilaDivision.exe.config
+C:\Users\usmenzabanov\source\repos\MethodsExercise\FactorilaDivision\bin\Debug\FactorilaDivision.exe
+C:\Users\usmenzabanov\source\repos\MethodsExercise\FactorilaDivision\bin\Debug\FactorilaDivision.pdb
+C:\Users\usmenzabanov\source\repos\MethodsExercise\FactorilaDivision\obj\Debug\FactorilaDivision.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\MethodsExercise\FactorilaDivision\obj\Debug\FactorilaDivision.exe
+C:\Users\usmenzabanov\source\repos\MethodsExercise\FactorilaDivision\obj\Debug\FactorilaDivision.pdb

@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\SoftuniParking\bin\Debug\SoftuniParking.exe.config
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\SoftuniParking\bin\Debug\SoftuniParking.exe
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\SoftuniParking\bin\Debug\SoftuniParking.pdb
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\SoftuniParking\obj\Debug\SoftuniParking.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\SoftuniParking\obj\Debug\SoftuniParking.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\SoftuniParking\obj\Debug\SoftuniParking.exe
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\SoftuniParking\obj\Debug\SoftuniParking.pdb

@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\MethodsExercise\MiddleCharacters\bin\Debug\MiddleCharacters.exe.config
+C:\Users\usmenzabanov\source\repos\MethodsExercise\MiddleCharacters\bin\Debug\MiddleCharacters.exe
+C:\Users\usmenzabanov\source\repos\MethodsExercise\MiddleCharacters\bin\Debug\MiddleCharacters.pdb
+C:\Users\usmenzabanov\source\repos\MethodsExercise\MiddleCharacters\obj\Debug\MiddleCharacters.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\MethodsExercise\MiddleCharacters\obj\Debug\MiddleCharacters.exe
+C:\Users\usmenzabanov\source\repos\MethodsExercise\MiddleCharacters\obj\Debug\MiddleCharacters.pdb

@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\MoreExercises_Arrays\PascalTrangle\bin\Debug\PascalTrangle.exe.config
+C:\Users\usmenzabanov\source\repos\MoreExercises_Arrays\PascalTrangle\bin\Debug\PascalTrangle.exe
+C:\Users\usmenzabanov\source\repos\MoreExercises_Arrays\PascalTrangle\bin\Debug\PascalTrangle.pdb
+C:\Users\usmenzabanov\source\repos\MoreExercises_Arrays\PascalTrangle\obj\Debug\PascalTrangle.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\MoreExercises_Arrays\PascalTrangle\obj\Debug\PascalTrangle.exe
+C:\Users\usmenzabanov\source\repos\MoreExercises_Arrays\PascalTrangle\obj\Debug\PascalTrangle.pdb

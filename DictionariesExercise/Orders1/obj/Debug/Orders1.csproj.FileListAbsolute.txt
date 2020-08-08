@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\Orders1\bin\Debug\Orders1.exe.config
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\Orders1\bin\Debug\Orders1.exe
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\Orders1\bin\Debug\Orders1.pdb
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\Orders1\obj\Debug\Orders1.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\Orders1\obj\Debug\Orders1.exe
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\Orders1\obj\Debug\Orders1.pdb

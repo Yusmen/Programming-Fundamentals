@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Snowballs\bin\Debug\Snowballs.exe.config
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Snowballs\bin\Debug\Snowballs.exe
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Snowballs\bin\Debug\Snowballs.pdb
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Snowballs\obj\Debug\Snowballs.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Snowballs\obj\Debug\Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Snowballs\obj\Debug\Snowballs.exe
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\Snowballs\obj\Debug\Snowballs.pdb

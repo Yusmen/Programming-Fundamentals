@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\FromLeftToRight\bin\Debug\FromLeftToRight.exe.config
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\FromLeftToRight\bin\Debug\FromLeftToRight.exe
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\FromLeftToRight\bin\Debug\FromLeftToRight.pdb
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\FromLeftToRight\obj\Debug\FromLeftToRight.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\FromLeftToRight\obj\Debug\FromLeftToRight.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\FromLeftToRight\obj\Debug\FromLeftToRight.exe
+C:\Users\usmenzabanov\source\repos\Lab_Data Types and Variables\FromLeftToRight\obj\Debug\FromLeftToRight.pdb

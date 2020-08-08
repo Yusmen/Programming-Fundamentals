@@ -1,0 +1,13 @@
+C:\Users\Yusmen\Desktop\C#\Tech module\Zadachi_Resheniq\DictionariesExercise\SoftuniExamResults\bin\Debug\netcoreapp3.1\SoftuniExamResults.exe
+C:\Users\Yusmen\Desktop\C#\Tech module\Zadachi_Resheniq\DictionariesExercise\SoftuniExamResults\bin\Debug\netcoreapp3.1\SoftuniExamResults.deps.json
+C:\Users\Yusmen\Desktop\C#\Tech module\Zadachi_Resheniq\DictionariesExercise\SoftuniExamResults\bin\Debug\netcoreapp3.1\SoftuniExamResults.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\Tech module\Zadachi_Resheniq\DictionariesExercise\SoftuniExamResults\bin\Debug\netcoreapp3.1\SoftuniExamResults.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\Tech module\Zadachi_Resheniq\DictionariesExercise\SoftuniExamResults\bin\Debug\netcoreapp3.1\SoftuniExamResults.dll
+C:\Users\Yusmen\Desktop\C#\Tech module\Zadachi_Resheniq\DictionariesExercise\SoftuniExamResults\bin\Debug\netcoreapp3.1\SoftuniExamResults.pdb
+C:\Users\Yusmen\Desktop\C#\Tech module\Zadachi_Resheniq\DictionariesExercise\SoftuniExamResults\obj\Debug\netcoreapp3.1\SoftuniExamResults.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\Tech module\Zadachi_Resheniq\DictionariesExercise\SoftuniExamResults\obj\Debug\netcoreapp3.1\SoftuniExamResults.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\Tech module\Zadachi_Resheniq\DictionariesExercise\SoftuniExamResults\obj\Debug\netcoreapp3.1\SoftuniExamResults.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\Tech module\Zadachi_Resheniq\DictionariesExercise\SoftuniExamResults\obj\Debug\netcoreapp3.1\SoftuniExamResults.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\Tech module\Zadachi_Resheniq\DictionariesExercise\SoftuniExamResults\obj\Debug\netcoreapp3.1\SoftuniExamResults.dll
+C:\Users\Yusmen\Desktop\C#\Tech module\Zadachi_Resheniq\DictionariesExercise\SoftuniExamResults\obj\Debug\netcoreapp3.1\SoftuniExamResults.pdb
+C:\Users\Yusmen\Desktop\C#\Tech module\Zadachi_Resheniq\DictionariesExercise\SoftuniExamResults\obj\Debug\netcoreapp3.1\SoftuniExamResults.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Foreign_languages\bin\Debug\Foreign_languages.exe.config
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Foreign_languages\bin\Debug\Foreign_languages.exe
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Foreign_languages\bin\Debug\Foreign_languages.pdb
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Foreign_languages\obj\Debug\Foreign_languages.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Foreign_languages\obj\Debug\Foreign_languages.exe
+C:\Users\usmenzabanov\source\repos\Basic_syntax\Foreign_languages\obj\Debug\Foreign_languages.pdb

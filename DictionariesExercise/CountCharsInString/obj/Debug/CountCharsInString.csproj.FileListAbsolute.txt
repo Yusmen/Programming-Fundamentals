@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\CountCharsInString\bin\Debug\CountCharsInString.exe.config
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\CountCharsInString\bin\Debug\CountCharsInString.exe
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\CountCharsInString\bin\Debug\CountCharsInString.pdb
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\CountCharsInString\obj\Debug\CountCharsInString.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\CountCharsInString\obj\Debug\CountCharsInString.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\CountCharsInString\obj\Debug\CountCharsInString.exe
+C:\Users\usmenzabanov\source\repos\DictionariesExercise\CountCharsInString\obj\Debug\CountCharsInString.pdb

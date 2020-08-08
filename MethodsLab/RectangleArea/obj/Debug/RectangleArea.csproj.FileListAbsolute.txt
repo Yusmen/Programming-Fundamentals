@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\MethodsLab\RectangleArea\bin\Debug\RectangleArea.exe.config
+C:\Users\usmenzabanov\source\repos\MethodsLab\RectangleArea\bin\Debug\RectangleArea.exe
+C:\Users\usmenzabanov\source\repos\MethodsLab\RectangleArea\bin\Debug\RectangleArea.pdb
+C:\Users\usmenzabanov\source\repos\MethodsLab\RectangleArea\obj\Debug\RectangleArea.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\MethodsLab\RectangleArea\obj\Debug\RectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\MethodsLab\RectangleArea\obj\Debug\RectangleArea.exe
+C:\Users\usmenzabanov\source\repos\MethodsLab\RectangleArea\obj\Debug\RectangleArea.pdb

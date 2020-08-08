@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\MethodsExercise\Palindrom\bin\Debug\Palindrom.exe.config
+C:\Users\usmenzabanov\source\repos\MethodsExercise\Palindrom\bin\Debug\Palindrom.exe
+C:\Users\usmenzabanov\source\repos\MethodsExercise\Palindrom\bin\Debug\Palindrom.pdb
+C:\Users\usmenzabanov\source\repos\MethodsExercise\Palindrom\obj\Debug\Palindrom.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\MethodsExercise\Palindrom\obj\Debug\Palindrom.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\MethodsExercise\Palindrom\obj\Debug\Palindrom.exe
+C:\Users\usmenzabanov\source\repos\MethodsExercise\Palindrom\obj\Debug\Palindrom.pdb

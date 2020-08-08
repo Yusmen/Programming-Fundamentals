@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\MethodsLab\MathOperations\bin\Debug\MathOperations.exe.config
+C:\Users\usmenzabanov\source\repos\MethodsLab\MathOperations\bin\Debug\MathOperations.exe
+C:\Users\usmenzabanov\source\repos\MethodsLab\MathOperations\bin\Debug\MathOperations.pdb
+C:\Users\usmenzabanov\source\repos\MethodsLab\MathOperations\obj\Debug\MathOperations.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\MethodsLab\MathOperations\obj\Debug\MathOperations.exe
+C:\Users\usmenzabanov\source\repos\MethodsLab\MathOperations\obj\Debug\MathOperations.pdb
