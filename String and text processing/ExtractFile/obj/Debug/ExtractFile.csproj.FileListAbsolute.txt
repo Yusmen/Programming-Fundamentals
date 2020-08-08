@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\String and text processing\ExtractFile\bin\Debug\ExtractFile.exe.config
+C:\Users\usmenzabanov\source\repos\String and text processing\ExtractFile\bin\Debug\ExtractFile.exe
+C:\Users\usmenzabanov\source\repos\String and text processing\ExtractFile\bin\Debug\ExtractFile.pdb
+C:\Users\usmenzabanov\source\repos\String and text processing\ExtractFile\obj\Debug\ExtractFile.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\String and text processing\ExtractFile\obj\Debug\ExtractFile.exe
+C:\Users\usmenzabanov\source\repos\String and text processing\ExtractFile\obj\Debug\ExtractFile.pdb

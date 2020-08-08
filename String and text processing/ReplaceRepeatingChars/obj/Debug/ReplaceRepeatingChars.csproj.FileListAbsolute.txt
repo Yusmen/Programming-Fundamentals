@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\String and text processing\ReplaceRepeatingChars\bin\Debug\ReplaceRepeatingChars.exe.config
+C:\Users\usmenzabanov\source\repos\String and text processing\ReplaceRepeatingChars\bin\Debug\ReplaceRepeatingChars.exe
+C:\Users\usmenzabanov\source\repos\String and text processing\ReplaceRepeatingChars\bin\Debug\ReplaceRepeatingChars.pdb
+C:\Users\usmenzabanov\source\repos\String and text processing\ReplaceRepeatingChars\obj\Debug\ReplaceRepeatingChars.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\String and text processing\ReplaceRepeatingChars\obj\Debug\ReplaceRepeatingChars.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\String and text processing\ReplaceRepeatingChars\obj\Debug\ReplaceRepeatingChars.exe
+C:\Users\usmenzabanov\source\repos\String and text processing\ReplaceRepeatingChars\obj\Debug\ReplaceRepeatingChars.pdb

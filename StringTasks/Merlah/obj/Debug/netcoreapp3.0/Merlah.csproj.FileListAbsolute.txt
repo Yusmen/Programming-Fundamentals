@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\StringTasks\Merlah\bin\Debug\netcoreapp3.0\Merlah.exe
+C:\Users\usmenzabanov\source\repos\StringTasks\Merlah\bin\Debug\netcoreapp3.0\Merlah.deps.json
+C:\Users\usmenzabanov\source\repos\StringTasks\Merlah\bin\Debug\netcoreapp3.0\Merlah.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\StringTasks\Merlah\bin\Debug\netcoreapp3.0\Merlah.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\StringTasks\Merlah\bin\Debug\netcoreapp3.0\Merlah.dll
+C:\Users\usmenzabanov\source\repos\StringTasks\Merlah\bin\Debug\netcoreapp3.0\Merlah.pdb
+C:\Users\usmenzabanov\source\repos\StringTasks\Merlah\obj\Debug\netcoreapp3.0\Merlah.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\StringTasks\Merlah\obj\Debug\netcoreapp3.0\Merlah.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\StringTasks\Merlah\obj\Debug\netcoreapp3.0\Merlah.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\StringTasks\Merlah\obj\Debug\netcoreapp3.0\Merlah.dll
+C:\Users\usmenzabanov\source\repos\StringTasks\Merlah\obj\Debug\netcoreapp3.0\Merlah.pdb

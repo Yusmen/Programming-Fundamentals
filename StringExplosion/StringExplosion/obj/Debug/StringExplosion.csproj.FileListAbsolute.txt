@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\StringExplosion\StringExplosion\bin\Debug\StringExplosion.exe.config
+C:\Users\usmenzabanov\source\repos\StringExplosion\StringExplosion\bin\Debug\StringExplosion.exe
+C:\Users\usmenzabanov\source\repos\StringExplosion\StringExplosion\bin\Debug\StringExplosion.pdb
+C:\Users\usmenzabanov\source\repos\StringExplosion\StringExplosion\obj\Debug\StringExplosion.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\StringExplosion\StringExplosion\obj\Debug\StringExplosion.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\StringExplosion\StringExplosion\obj\Debug\StringExplosion.exe
+C:\Users\usmenzabanov\source\repos\StringExplosion\StringExplosion\obj\Debug\StringExplosion.pdb

@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\String and text processing\ValidUserNames\bin\Debug\ValidUserNames.exe.config
+C:\Users\usmenzabanov\source\repos\String and text processing\ValidUserNames\bin\Debug\ValidUserNames.exe
+C:\Users\usmenzabanov\source\repos\String and text processing\ValidUserNames\bin\Debug\ValidUserNames.pdb
+C:\Users\usmenzabanov\source\repos\String and text processing\ValidUserNames\obj\Debug\ValidUserNames.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\String and text processing\ValidUserNames\obj\Debug\ValidUserNames.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\String and text processing\ValidUserNames\obj\Debug\ValidUserNames.exe
+C:\Users\usmenzabanov\source\repos\String and text processing\ValidUserNames\obj\Debug\ValidUserNames.pdb

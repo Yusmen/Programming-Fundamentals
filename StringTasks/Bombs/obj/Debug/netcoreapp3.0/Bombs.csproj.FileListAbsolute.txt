@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\StringTasks\Bombs\bin\Debug\netcoreapp3.0\Bombs.exe
+C:\Users\usmenzabanov\source\repos\StringTasks\Bombs\bin\Debug\netcoreapp3.0\Bombs.deps.json
+C:\Users\usmenzabanov\source\repos\StringTasks\Bombs\bin\Debug\netcoreapp3.0\Bombs.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\StringTasks\Bombs\bin\Debug\netcoreapp3.0\Bombs.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\StringTasks\Bombs\bin\Debug\netcoreapp3.0\Bombs.dll
+C:\Users\usmenzabanov\source\repos\StringTasks\Bombs\bin\Debug\netcoreapp3.0\Bombs.pdb
+C:\Users\usmenzabanov\source\repos\StringTasks\Bombs\obj\Debug\netcoreapp3.0\Bombs.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\StringTasks\Bombs\obj\Debug\netcoreapp3.0\Bombs.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\StringTasks\Bombs\obj\Debug\netcoreapp3.0\Bombs.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\StringTasks\Bombs\obj\Debug\netcoreapp3.0\Bombs.dll
+C:\Users\usmenzabanov\source\repos\StringTasks\Bombs\obj\Debug\netcoreapp3.0\Bombs.pdb

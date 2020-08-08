@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\StringTasks\FromNToTenth\bin\Debug\netcoreapp3.0\FromNToTenth.exe
+C:\Users\usmenzabanov\source\repos\StringTasks\FromNToTenth\bin\Debug\netcoreapp3.0\FromNToTenth.deps.json
+C:\Users\usmenzabanov\source\repos\StringTasks\FromNToTenth\bin\Debug\netcoreapp3.0\FromNToTenth.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\StringTasks\FromNToTenth\bin\Debug\netcoreapp3.0\FromNToTenth.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\StringTasks\FromNToTenth\bin\Debug\netcoreapp3.0\FromNToTenth.dll
+C:\Users\usmenzabanov\source\repos\StringTasks\FromNToTenth\bin\Debug\netcoreapp3.0\FromNToTenth.pdb
+C:\Users\usmenzabanov\source\repos\StringTasks\FromNToTenth\obj\Debug\netcoreapp3.0\FromNToTenth.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\StringTasks\FromNToTenth\obj\Debug\netcoreapp3.0\FromNToTenth.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\StringTasks\FromNToTenth\obj\Debug\netcoreapp3.0\FromNToTenth.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\StringTasks\FromNToTenth\obj\Debug\netcoreapp3.0\FromNToTenth.dll
+C:\Users\usmenzabanov\source\repos\StringTasks\FromNToTenth\obj\Debug\netcoreapp3.0\FromNToTenth.pdb

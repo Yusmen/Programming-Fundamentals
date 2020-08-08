@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\String and text processing\CaesaCipher\bin\Debug\CaesaCipher.exe.config
+C:\Users\usmenzabanov\source\repos\String and text processing\CaesaCipher\bin\Debug\CaesaCipher.exe
+C:\Users\usmenzabanov\source\repos\String and text processing\CaesaCipher\bin\Debug\CaesaCipher.pdb
+C:\Users\usmenzabanov\source\repos\String and text processing\CaesaCipher\obj\Debug\CaesaCipher.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\String and text processing\CaesaCipher\obj\Debug\CaesaCipher.exe
+C:\Users\usmenzabanov\source\repos\String and text processing\CaesaCipher\obj\Debug\CaesaCipher.pdb

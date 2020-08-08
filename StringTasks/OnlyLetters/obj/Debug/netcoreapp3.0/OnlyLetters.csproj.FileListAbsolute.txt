@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\StringTasks\OnlyLetters\bin\Debug\netcoreapp3.0\OnlyLetters.exe
+C:\Users\usmenzabanov\source\repos\StringTasks\OnlyLetters\bin\Debug\netcoreapp3.0\OnlyLetters.deps.json
+C:\Users\usmenzabanov\source\repos\StringTasks\OnlyLetters\bin\Debug\netcoreapp3.0\OnlyLetters.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\StringTasks\OnlyLetters\bin\Debug\netcoreapp3.0\OnlyLetters.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\StringTasks\OnlyLetters\bin\Debug\netcoreapp3.0\OnlyLetters.dll
+C:\Users\usmenzabanov\source\repos\StringTasks\OnlyLetters\bin\Debug\netcoreapp3.0\OnlyLetters.pdb
+C:\Users\usmenzabanov\source\repos\StringTasks\OnlyLetters\obj\Debug\netcoreapp3.0\OnlyLetters.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\StringTasks\OnlyLetters\obj\Debug\netcoreapp3.0\OnlyLetters.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\StringTasks\OnlyLetters\obj\Debug\netcoreapp3.0\OnlyLetters.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\StringTasks\OnlyLetters\obj\Debug\netcoreapp3.0\OnlyLetters.dll
+C:\Users\usmenzabanov\source\repos\StringTasks\OnlyLetters\obj\Debug\netcoreapp3.0\OnlyLetters.pdb

@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\String and text processing\TextFilter\bin\Debug\TextFilter.exe.config
+C:\Users\usmenzabanov\source\repos\String and text processing\TextFilter\bin\Debug\TextFilter.exe
+C:\Users\usmenzabanov\source\repos\String and text processing\TextFilter\bin\Debug\TextFilter.pdb
+C:\Users\usmenzabanov\source\repos\String and text processing\TextFilter\obj\Debug\TextFilter.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\String and text processing\TextFilter\obj\Debug\TextFilter.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\String and text processing\TextFilter\obj\Debug\TextFilter.exe
+C:\Users\usmenzabanov\source\repos\String and text processing\TextFilter\obj\Debug\TextFilter.pdb

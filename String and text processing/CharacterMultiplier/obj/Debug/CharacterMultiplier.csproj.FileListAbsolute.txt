@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\String and text processing\CharacterMultiplier\bin\Debug\CharacterMultiplier.exe.config
+C:\Users\usmenzabanov\source\repos\String and text processing\CharacterMultiplier\bin\Debug\CharacterMultiplier.exe
+C:\Users\usmenzabanov\source\repos\String and text processing\CharacterMultiplier\bin\Debug\CharacterMultiplier.pdb
+C:\Users\usmenzabanov\source\repos\String and text processing\CharacterMultiplier\obj\Debug\CharacterMultiplier.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\String and text processing\CharacterMultiplier\obj\Debug\CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\String and text processing\CharacterMultiplier\obj\Debug\CharacterMultiplier.exe
+C:\Users\usmenzabanov\source\repos\String and text processing\CharacterMultiplier\obj\Debug\CharacterMultiplier.pdb

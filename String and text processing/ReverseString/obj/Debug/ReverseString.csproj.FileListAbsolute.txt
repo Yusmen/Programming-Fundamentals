@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\String and text processing\ReverseString\bin\Debug\ReverseString.exe.config
+C:\Users\usmenzabanov\source\repos\String and text processing\ReverseString\bin\Debug\ReverseString.exe
+C:\Users\usmenzabanov\source\repos\String and text processing\ReverseString\bin\Debug\ReverseString.pdb
+C:\Users\usmenzabanov\source\repos\String and text processing\ReverseString\obj\Debug\ReverseString.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\String and text processing\ReverseString\obj\Debug\ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\String and text processing\ReverseString\obj\Debug\ReverseString.exe
+C:\Users\usmenzabanov\source\repos\String and text processing\ReverseString\obj\Debug\ReverseString.pdb

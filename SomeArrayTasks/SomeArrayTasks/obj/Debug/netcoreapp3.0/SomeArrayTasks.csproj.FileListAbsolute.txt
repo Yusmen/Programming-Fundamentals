@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\SomeArrayTasks\SomeArrayTasks\bin\Debug\netcoreapp3.0\SomeArrayTasks.exe
+C:\Users\usmenzabanov\source\repos\SomeArrayTasks\SomeArrayTasks\bin\Debug\netcoreapp3.0\SomeArrayTasks.deps.json
+C:\Users\usmenzabanov\source\repos\SomeArrayTasks\SomeArrayTasks\bin\Debug\netcoreapp3.0\SomeArrayTasks.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\SomeArrayTasks\SomeArrayTasks\bin\Debug\netcoreapp3.0\SomeArrayTasks.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\SomeArrayTasks\SomeArrayTasks\bin\Debug\netcoreapp3.0\SomeArrayTasks.dll
+C:\Users\usmenzabanov\source\repos\SomeArrayTasks\SomeArrayTasks\bin\Debug\netcoreapp3.0\SomeArrayTasks.pdb
+C:\Users\usmenzabanov\source\repos\SomeArrayTasks\SomeArrayTasks\obj\Debug\netcoreapp3.0\SomeArrayTasks.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\SomeArrayTasks\SomeArrayTasks\obj\Debug\netcoreapp3.0\SomeArrayTasks.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\SomeArrayTasks\SomeArrayTasks\obj\Debug\netcoreapp3.0\SomeArrayTasks.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\SomeArrayTasks\SomeArrayTasks\obj\Debug\netcoreapp3.0\SomeArrayTasks.dll
+C:\Users\usmenzabanov\source\repos\SomeArrayTasks\SomeArrayTasks\obj\Debug\netcoreapp3.0\SomeArrayTasks.pdb

@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\String and text processing\MultiplyBigNumber\bin\Debug\MultiplyBigNumber.exe.config
+C:\Users\usmenzabanov\source\repos\String and text processing\MultiplyBigNumber\bin\Debug\MultiplyBigNumber.exe
+C:\Users\usmenzabanov\source\repos\String and text processing\MultiplyBigNumber\bin\Debug\MultiplyBigNumber.pdb
+C:\Users\usmenzabanov\source\repos\String and text processing\MultiplyBigNumber\obj\Debug\MultiplyBigNumber.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\String and text processing\MultiplyBigNumber\obj\Debug\MultiplyBigNumber.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\String and text processing\MultiplyBigNumber\obj\Debug\MultiplyBigNumber.exe
+C:\Users\usmenzabanov\source\repos\String and text processing\MultiplyBigNumber\obj\Debug\MultiplyBigNumber.pdb

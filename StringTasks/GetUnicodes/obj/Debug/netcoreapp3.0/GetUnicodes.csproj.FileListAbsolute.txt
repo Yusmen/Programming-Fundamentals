@@ -1,0 +1,10 @@
+C:\Users\usmenzabanov\source\repos\StringTasks\GetUnicodes\bin\Debug\netcoreapp3.0\GetUnicodes.exe
+C:\Users\usmenzabanov\source\repos\StringTasks\GetUnicodes\bin\Debug\netcoreapp3.0\GetUnicodes.deps.json
+C:\Users\usmenzabanov\source\repos\StringTasks\GetUnicodes\bin\Debug\netcoreapp3.0\GetUnicodes.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\StringTasks\GetUnicodes\bin\Debug\netcoreapp3.0\GetUnicodes.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\StringTasks\GetUnicodes\bin\Debug\netcoreapp3.0\GetUnicodes.dll
+C:\Users\usmenzabanov\source\repos\StringTasks\GetUnicodes\bin\Debug\netcoreapp3.0\GetUnicodes.pdb
+C:\Users\usmenzabanov\source\repos\StringTasks\GetUnicodes\obj\Debug\netcoreapp3.0\GetUnicodes.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\StringTasks\GetUnicodes\obj\Debug\netcoreapp3.0\GetUnicodes.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\StringTasks\GetUnicodes\obj\Debug\netcoreapp3.0\GetUnicodes.dll
+C:\Users\usmenzabanov\source\repos\StringTasks\GetUnicodes\obj\Debug\netcoreapp3.0\GetUnicodes.pdb

@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\StringTasks\NakovGame\bin\Debug\netcoreapp3.0\NakovGame.exe
+C:\Users\usmenzabanov\source\repos\StringTasks\NakovGame\bin\Debug\netcoreapp3.0\NakovGame.deps.json
+C:\Users\usmenzabanov\source\repos\StringTasks\NakovGame\bin\Debug\netcoreapp3.0\NakovGame.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\StringTasks\NakovGame\bin\Debug\netcoreapp3.0\NakovGame.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\StringTasks\NakovGame\bin\Debug\netcoreapp3.0\NakovGame.dll
+C:\Users\usmenzabanov\source\repos\StringTasks\NakovGame\bin\Debug\netcoreapp3.0\NakovGame.pdb
+C:\Users\usmenzabanov\source\repos\StringTasks\NakovGame\obj\Debug\netcoreapp3.0\NakovGame.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\StringTasks\NakovGame\obj\Debug\netcoreapp3.0\NakovGame.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\StringTasks\NakovGame\obj\Debug\netcoreapp3.0\NakovGame.dll
+C:\Users\usmenzabanov\source\repos\StringTasks\NakovGame\obj\Debug\netcoreapp3.0\NakovGame.pdb
+C:\Users\usmenzabanov\source\repos\StringTasks\NakovGame\obj\Debug\netcoreapp3.0\NakovGame.csprojAssemblyReference.cache

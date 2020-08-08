@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\StringTasks\AddingBigNumbers\bin\Debug\netcoreapp3.0\AddingBigNumbers.exe
+C:\Users\usmenzabanov\source\repos\StringTasks\AddingBigNumbers\bin\Debug\netcoreapp3.0\AddingBigNumbers.deps.json
+C:\Users\usmenzabanov\source\repos\StringTasks\AddingBigNumbers\bin\Debug\netcoreapp3.0\AddingBigNumbers.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\StringTasks\AddingBigNumbers\bin\Debug\netcoreapp3.0\AddingBigNumbers.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\StringTasks\AddingBigNumbers\bin\Debug\netcoreapp3.0\AddingBigNumbers.dll
+C:\Users\usmenzabanov\source\repos\StringTasks\AddingBigNumbers\bin\Debug\netcoreapp3.0\AddingBigNumbers.pdb
+C:\Users\usmenzabanov\source\repos\StringTasks\AddingBigNumbers\obj\Debug\netcoreapp3.0\AddingBigNumbers.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\StringTasks\AddingBigNumbers\obj\Debug\netcoreapp3.0\AddingBigNumbers.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\StringTasks\AddingBigNumbers\obj\Debug\netcoreapp3.0\AddingBigNumbers.dll
+C:\Users\usmenzabanov\source\repos\StringTasks\AddingBigNumbers\obj\Debug\netcoreapp3.0\AddingBigNumbers.pdb
+C:\Users\usmenzabanov\source\repos\StringTasks\AddingBigNumbers\obj\Debug\netcoreapp3.0\AddingBigNumbers.csprojAssemblyReference.cache

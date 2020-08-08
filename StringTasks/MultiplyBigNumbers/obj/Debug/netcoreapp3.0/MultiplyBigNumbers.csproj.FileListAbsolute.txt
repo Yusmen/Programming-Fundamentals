@@ -1,0 +1,10 @@
+C:\Users\usmenzabanov\source\repos\StringTasks\MultiplyBigNumbers\bin\Debug\netcoreapp3.0\MultiplyBigNumbers.exe
+C:\Users\usmenzabanov\source\repos\StringTasks\MultiplyBigNumbers\bin\Debug\netcoreapp3.0\MultiplyBigNumbers.deps.json
+C:\Users\usmenzabanov\source\repos\StringTasks\MultiplyBigNumbers\bin\Debug\netcoreapp3.0\MultiplyBigNumbers.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\StringTasks\MultiplyBigNumbers\bin\Debug\netcoreapp3.0\MultiplyBigNumbers.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\StringTasks\MultiplyBigNumbers\bin\Debug\netcoreapp3.0\MultiplyBigNumbers.dll
+C:\Users\usmenzabanov\source\repos\StringTasks\MultiplyBigNumbers\bin\Debug\netcoreapp3.0\MultiplyBigNumbers.pdb
+C:\Users\usmenzabanov\source\repos\StringTasks\MultiplyBigNumbers\obj\Debug\netcoreapp3.0\MultiplyBigNumbers.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\StringTasks\MultiplyBigNumbers\obj\Debug\netcoreapp3.0\MultiplyBigNumbers.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\StringTasks\MultiplyBigNumbers\obj\Debug\netcoreapp3.0\MultiplyBigNumbers.dll
+C:\Users\usmenzabanov\source\repos\StringTasks\MultiplyBigNumbers\obj\Debug\netcoreapp3.0\MultiplyBigNumbers.pdb

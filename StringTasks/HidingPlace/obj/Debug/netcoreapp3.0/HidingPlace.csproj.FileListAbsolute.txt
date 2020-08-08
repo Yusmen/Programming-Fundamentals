@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\StringTasks\HidingPlace\bin\Debug\netcoreapp3.0\HidingPlace.exe
+C:\Users\usmenzabanov\source\repos\StringTasks\HidingPlace\bin\Debug\netcoreapp3.0\HidingPlace.deps.json
+C:\Users\usmenzabanov\source\repos\StringTasks\HidingPlace\bin\Debug\netcoreapp3.0\HidingPlace.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\StringTasks\HidingPlace\bin\Debug\netcoreapp3.0\HidingPlace.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\StringTasks\HidingPlace\bin\Debug\netcoreapp3.0\HidingPlace.dll
+C:\Users\usmenzabanov\source\repos\StringTasks\HidingPlace\bin\Debug\netcoreapp3.0\HidingPlace.pdb
+C:\Users\usmenzabanov\source\repos\StringTasks\HidingPlace\obj\Debug\netcoreapp3.0\HidingPlace.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\StringTasks\HidingPlace\obj\Debug\netcoreapp3.0\HidingPlace.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\StringTasks\HidingPlace\obj\Debug\netcoreapp3.0\HidingPlace.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\StringTasks\HidingPlace\obj\Debug\netcoreapp3.0\HidingPlace.dll
+C:\Users\usmenzabanov\source\repos\StringTasks\HidingPlace\obj\Debug\netcoreapp3.0\HidingPlace.pdb

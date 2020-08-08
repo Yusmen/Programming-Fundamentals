@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\String and text processing\DigitsLettersOther\bin\Debug\DigitsLettersOther.exe.config
+C:\Users\usmenzabanov\source\repos\String and text processing\DigitsLettersOther\bin\Debug\DigitsLettersOther.exe
+C:\Users\usmenzabanov\source\repos\String and text processing\DigitsLettersOther\bin\Debug\DigitsLettersOther.pdb
+C:\Users\usmenzabanov\source\repos\String and text processing\DigitsLettersOther\obj\Debug\DigitsLettersOther.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\String and text processing\DigitsLettersOther\obj\Debug\DigitsLettersOther.exe
+C:\Users\usmenzabanov\source\repos\String and text processing\DigitsLettersOther\obj\Debug\DigitsLettersOther.pdb
